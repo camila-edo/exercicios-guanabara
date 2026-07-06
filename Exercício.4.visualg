@@ -1,0 +1,12 @@
+algoritmo "Exercício.4"
+var
+numero1: real
+numero2: real
+
+inicio
+escreval ("Digite um número?")
+leia (numero1)
+escreval ("Digite outro número?")
+leia (numero2)
+escreva ("A soma entre ", numero1, " e ", numero2," é igual a ", numero1+numero2,".")
+fimalgoritmo

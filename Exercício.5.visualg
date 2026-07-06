@@ -1,0 +1,16 @@
+algoritmo "Exercício.5"
+
+var
+  nota1: real
+  nota2: real
+
+inicio
+
+  escreval("Digite a nota 1?")
+  leia(nota1)
+  escreval("Digite a nota 2?")
+  leia ( nota2)
+  escreva ("A média entre ", nota1, " e ", nota2, " é igual a ", (nota1+nota2)/2)
+
+
+fimalgoritmo

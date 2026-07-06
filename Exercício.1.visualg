@@ -1,0 +1,6 @@
+algoritmo "Exercico1"
+var
+
+inicio
+  escreva("Olá, Mundo!")
+fimalgoritmo
