@@ -1,0 +1,13 @@
+algoritmo "Exercicio.8"
+var
+    dist: real
+inicio
+     Escreval ("Digite uma distância em metros:")
+     Leia (dist)
+     Escreval ("km: ", dist/1000)
+     Escreval ("Hm: ", dist/100)
+     Escreval ("Dam: ", dist/10)
+     Escreval ("dm: ", dist*10)
+     Escreval ("cm: ", dist*100)
+     Escreval ("mm: ", dist*1000)
+fimalgoritmo 

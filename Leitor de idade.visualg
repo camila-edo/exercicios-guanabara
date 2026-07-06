@@ -1,0 +1,16 @@
+algoritmo "Leitor de idade"
+
+var
+   ano_atual, ano_nasc, idade: inteiro
+
+inicio
+
+  escreval("Em que anos nos estamos?")
+  Leia(ano_atual)
+  escreval("Em que ano você nasceu?")
+  Leia (ano_nasc)
+  idade <- ano_atual - ano_nasc
+  Escreval ("Minha idade será ",idade)
+
+
+fimalgoritmo
